@@ -5,7 +5,9 @@
 
 [GLPI - Instalação passo a passo | MasterMindTI](https://youtu.be/_OjuhFMcXfA)
 
-### Script
+## Vamos para os Scripts ?
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/glpi-project/glpi/master/pics/logos/logo-GLPI-250-black.png" width="60" height="60"/>
+                
 
 ####################################################################
 ## 1. Pré-Requisitos
@@ -206,5 +208,19 @@ EOF
 
 e-mail: contato@mastermindti.com.br
 
-Canal [Canal MasterMindTi](https://www.youtube.com/@mastermindti) Youtube
+## Contatos:
+
+<div>
+<a href="https://www.youtube.com/@mastermindti" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@mastermindti.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luciano-rodrigues-676691159/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+## Estatisticas
+
+<div>
+<a href="https://github.com/MasterMindTI">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterMindTI&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MasterMindTI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
