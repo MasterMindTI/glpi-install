@@ -81,6 +81,13 @@ sudo sed -i 's/^session.cookie_httponly =/session.cookie_httponly = on/' /etc/ph
 	sudo sed -i 's/^;date.timezone =/date.timezone = America\/Sao_Paulo/' /etc/php/8.1/apache2/php.ini
 ```	
 
+*NOTA: Caso de algum erro, as vezes pode ser que a versão do PHP no caso 8.1 pode ter sido mudada, ai para poder localizar a pasta do php.ini, execute o comando abaixo:
+
+```	
+sudo find /etc/php -type f -name "php.ini"
+```	
+
+
 - 2.9. Criar o virtualhost do glpi
 ```
 cat << EOF | sudo tee /etc/apache2/sites-available/glpi.conf
